@@ -1,0 +1,45 @@
+
+table{
+    border-collapse: collapse;
+}
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 2px;
+}
+
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 2px;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+}
+.table td, .table th {
+    padding: .75rem;
+}
+th {
+    text-align: inherit;
+}
+table {
+    margin:5px;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+h4{
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.total-score{
+    text-align: center;
+    font-size: 30px;
+}
